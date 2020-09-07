@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Martabak Chomp",
-"productVersion": "0.0.9zz",
+"companyName": "Arsanesia",
+"productName": "Chickin Chase",
+"productVersion": "0.0.11",
 "dataUrl": "test_host_unity.data.unityweb",
 "wasmCodeUrl": "test_host_unity.wasm.code.unityweb",
 "wasmFrameworkUrl": "test_host_unity.wasm.framework.unityweb",
